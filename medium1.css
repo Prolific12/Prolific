@@ -1,0 +1,537 @@
+@media (max-width:760px) {
+    header{
+        width: 100% !important;
+        height: 80px !important;
+        display: flex !important;
+        position: fixed !important;
+        z-index: 1000;
+    }
+
+    header > #div1{
+        width: 60%;
+        /* height: 100% !important; */
+        display: flex;
+        align-items: center;
+    }
+
+    #div1 > #img1{
+        margin-left: 5%;
+        margin-top: 5%;
+        width: 85%;
+        height: 80%;
+    }
+
+    header > #div2{
+        width: 40%;
+        /* height: 100%; */
+        margin: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #div2 > #a3{
+        width: 70%;
+        height: 50%;
+        margin-top: 5%;
+        margin-left: 5%;
+    }
+
+    #div2 > #a1{
+        display: none !important;
+    }
+
+    #div2 > #icon{
+        display: contents !important;
+        color: black !important;
+    }
+
+    #section1{
+        width: 100% !important;
+        height: 610px !important;
+    }
+
+    #section1 > #div4{
+        margin-top: 45%;
+        margin-left: 5%;
+        font-size: 70px;
+        line-height: 80px;
+    }
+
+    #section1 > #div5{
+        border: 1px solid rgb(255, 192, 23);
+        width: 90%;
+        height: 10%;
+        margin-top: 10%;
+        margin-left: 5%;
+        font-size: 24px;
+    }
+
+    #section1 > #div6{
+        margin-top: 15%;
+        margin-left: 5%;
+    }
+
+    #section2{
+        width: 100%;
+        height: 1000px;
+        border-bottom: 1px solid rgb(242, 242, 242) !important;
+    }
+
+    #section2 > div{
+        width: 80%;
+        height: 150px;
+    }
+
+    #section2 > #div7{
+        margin-top: 2%;
+        margin-left: 10%;
+    }
+
+    #section2 > #div8{
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 2%;
+        margin-left: 10%;
+    }
+
+    #section2 > #div9{
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 81%;
+        margin-left: 10%;
+    }
+
+    #section3{
+        display: flex;
+        width: 99.9%;
+        height: 2500px;
+    }
+
+    #div10{
+        padding-top: 80%;
+    }
+
+    #section3 > #div11{
+        width: 100%;
+        height: 500px;
+        display: flex;
+    }
+
+    #imgq{
+        width: 50% !important;
+    }
+
+    #imgw{
+        width: 50% !important;
+    }
+
+    #imge{
+        width: 50% !important;
+    }
+
+    #imgr{
+        width: 50% !important;
+    }
+
+    #imgt{
+        width: 50% !important;
+    }
+
+    #imgy{
+        width: 50% !important;
+    }
+
+    #imgu{
+        width: 50% !important;
+    }
+
+    #imgi{
+        width: 50% !important;
+    }
+
+    #imgo{
+        width: 50% !important;
+    }
+
+    #imgp{
+        width: 50% !important;
+    }
+
+    #section3{
+        height: 2200px !important;
+    }
+
+    #div10{
+        width: 100% !important;
+        border-top: 1px solid rgb(242, 242, 242);
+    }
+
+    #div11{
+        width: 100% !important;
+        border-bottom: 1px solid rgb(242, 242, 242);
+    }
+
+    #div10 > div{
+        width: 200% !important;
+        height: 250px;
+    }
+
+    #h4a{
+        display: none !important;
+    }
+
+    #div10a{
+        position: relative;
+        left: 10% !important;
+    }
+
+    #imgq{
+        position: relative;
+        left: 170%;
+        bottom: 5%;
+        width: 80% !important;
+        height: 100px;
+    }
+
+    #div10b{
+        position: relative;
+        left: 10% !important;
+        /* bottom: 100% !important; */
+    }
+
+    #imgw{
+        position: relative;
+        left: 170%;
+        bottom: 11%;
+        width: 80% !important;
+        height: 100px;
+    }
+
+    #div10c{
+        position: relative;
+        left: 10% !important;
+        bottom: 9% !important;
+    }
+
+    #imge{
+        position: relative;
+        left: 170%;
+        bottom: 18% !important;
+        width: 80% !important;
+        height: 100px;
+    }
+
+    #div10d{
+        position: relative;
+        left: 10% !important;
+    }
+
+    #imgr{
+        position: relative;
+        left: 170%;
+        bottom: 25% !important;
+        width: 80% !important;
+        height: 100px;
+    }
+
+    #div10e{
+        position: relative;
+        left: 10% !important;
+    }
+
+    #imgt{
+        position: relative;
+        left: 170%;
+        bottom: 32%;
+        width: 80% !important;
+        height: 100px;
+    }
+
+    #div10f{
+        position: relative;
+        left: 10% !important;
+        bottom: 31% !important;
+    }
+
+    #imgy{
+        position: relative;
+        left: 170%;
+        bottom: 39%;
+        width: 80% !important;
+        height: 100px;
+    }
+
+    #div10g{
+        position: relative;
+        left: 10% !important;
+        bottom: 38% !important;
+    }
+
+    #imgu{
+        position: relative;
+        left: 170%;
+        bottom: 46%;
+        width: 80% !important;
+        height: 100px;
+    }
+
+    #div10h{
+        position: relative;
+        left: 10% !important;
+        bottom: 44% !important;
+    }
+
+    #imgi{
+        position: relative;
+        left: 170%;
+        bottom: 53%;
+        width: 80% !important;
+        height: 100px;
+    }
+
+    #div10i{
+        width: 70% !important;
+        position: relative;
+        left: 10% !important;
+        bottom: 52% !important;
+    }
+
+    #imgo{
+        position: relative;
+        left: 170%;
+        bottom: 60%;
+        width: 80% !important;
+        height: 100px;
+    }
+
+    #div10j{
+        width: 70% !important;
+        position: relative;
+        left: 10% !important;
+        bottom: 58% !important;
+    }
+
+    #imgp{
+        position: relative;
+        left: 170%;
+        bottom: 67%;
+        width: 80% !important;
+        height: 100px;
+    }
+
+    #button10q{
+        display: none;
+    }
+
+    #div10 > #div10k{
+        width: 120% !important;
+        height: 30px !important;
+        border: 1px solid black;
+        background-color: white;
+        position: relative;
+        left: 100%;
+        z-index: -1;
+        bottom: 64%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 20px;
+        padding-left: 10px !important;
+        padding-right: 10px;
+    }
+
+    #div11{
+        width: 100% !important;
+        height: 300px !important;
+        position: relative !important;
+        bottom: 100% !important;
+        top: 0% !important;
+        right: 27% !important;
+        display: flex;
+    }
+
+    #div11a{
+        border: 1px solid red;
+        /* padding-top: 2%;
+        padding-left: 15%; */
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        width: 200% !important;
+        height: 50px !important;
+        
+    }
+
+    #div11b{
+        padding-top: 10%;
+        position: relative;
+        top: 10%;
+        right: 20%;
+        display: block !important;
+        /* flex-wrap: wrap !important;
+        flex-direction: column !important; */
+        position: relative !important;
+        top: 20% !important;
+        left: 20% !important;
+        }
+
+    #div11c{
+        border: 1px solid red;
+        width: 100%;
+        height: 50px;
+        /* padding-top: 5%; */
+        /* padding-left: 10%; */
+        position: relative;
+        top: 80%;
+        right: 70%;
+    }
+
+    #div11d{
+        display: none ;
+        padding-top: 5%;
+        padding-left: 10%;
+        position: relative !important;
+        top: 70% !important;
+        right: 50%;
+    }
+    
+    #button11{
+        position: relative;
+        right: 100%;
+        bottom: 20%;
+    }
+
+    #button11a{
+        position: relative;
+        left: 10% !important;
+        bottom: 33.5% !important;
+    }
+
+    #button11b{
+        width: fit-content !important;
+        position: relative;
+        right: 100% !important;
+        bottom: 30% !important;
+    }
+
+    #button11c{
+        padding: 10px 4px !important;
+        width: fit-content !important;
+        position: relative;
+        right: 5% !important;
+        bottom: 43.5% !important;
+    }
+
+    #button11d{
+        position: relative;
+        right: 100% !important;
+        bottom: 40% !important;
+    }
+
+    #button11e{
+        position: relative;
+        right: 20% !important;
+        bottom: 53% !important;
+    }
+
+    #button11f{
+        padding: 10px 4px !important;
+        width: fit-content !important;
+        position: relative;
+        right: 100% !important;
+        bottom: 51% !important;
+    }
+
+    #button11g{
+        position: relative;
+        left: 5% !important;
+        bottom: 64% !important;
+    }
+
+    #button11h{
+        position: relative;
+        right: 100%;
+        bottom: 62.5%;
+    }
+
+    #section4{
+        width: 99.9%;
+        height: 300px;
+        /* border: 1px solid red; */
+        background-color: black;
+        color: white;
+    }
+    #div12{
+        font-size: 30px;
+        font-family: medium-content-sans-serif-font, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+        color: white;
+        padding-top: 30px;
+        padding-left: 35px;
+    }
+    
+    #div13{
+        padding-top: 10px;
+        padding-bottom: 30px;
+        padding-left: 30px;
+        width: 60%;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    
+    #div13 > a{
+        text-decoration: none;
+        color: white;
+    }
+    
+    #div14{
+        color: white;
+        padding: 40px;
+        border-top: 1px solid rgb(107,107,107);
+    }
+    
+    #div15{
+        position: relative;
+        z-index: 1;
+    }
+
+    #div15a{
+        border: 1px solid white;
+        padding: 5px;
+        padding-left: 35px;
+        display: block;
+        font-size: 12px;
+        position: absolute;
+        top: 20%;
+        left: 15%;
+    }
+
+    #div15b{
+        padding: 5px;
+        padding-left: 35px;
+        border: 1px solid white;
+        width: 30%;
+        display: block;
+        position: absolute;
+        left: 55%;
+        top: 20% !important;
+        font-size: 12px;
+    }
+
+    #ifa{
+        position: absolute;
+        bottom: 60%;
+        left: 10%;
+        font-size: 20px;
+    }
+    
+    #img{
+        position: absolute;
+        bottom: 10%;
+        right: 80%;
+        width: 19%;
+        height: 70%;
+    }
+
+}
